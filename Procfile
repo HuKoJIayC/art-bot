@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/*.jar -Dmaven.repo.local=/app/resources/settings.xml
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/*.jar
