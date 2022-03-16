@@ -26,4 +26,12 @@
     </profile>
   </profiles>
 
+  <servers>
+    <server>
+      <id>github</id>
+      <username>HuKoJIayC</username>
+      <password>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</password>
+    </server>
+  </servers>
+
 </settings>
